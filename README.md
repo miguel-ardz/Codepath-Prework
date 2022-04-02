@@ -74,6 +74,12 @@ If you recorded multiple GIFs for all the implemented features, you can add them
    by little I could see the logic and also make a connection with the Java programming language in my head even though they are different languages.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
+   What are things a web developer can do to improve user experience?
+   What the benefits of making webapps that work also offline and how can you determine if you should add that feature to your app during development?
+   How do you make your website work well with mobile devices with everyone having a cellphone?
+   What frameworks are best to use during the development of a website that makes the developer more productive but also deploy a quality product?
+   Is a content management system like WordPress still relevent now a days? And how did it become so popular?
+   What are the common things a developer can do to increase load times and page speeds on his website?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
    [YOUR ANSWER HERE]
