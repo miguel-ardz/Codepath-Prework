@@ -4,7 +4,7 @@
 
 Submitted by: Miguel Rodriguez
 
-Time spent: 6 hours spent in total
+Time spent: 5 hours spent in total
 
 Link to project:
 
@@ -74,6 +74,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
    by little I could see the logic and also make a connection with the Java programming language in my head even though they are different languages.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) <br>
+
    What are things a web developer can do to improve user experience? <br>
    What the benefits of making webapps that work also offline and how can you determine if you should add that feature to your app during development? <br>
    How do you make your website work well with mobile devices with everyone having a cellphone? <br>
@@ -82,7 +83,8 @@ If you recorded multiple GIFs for all the implemented features, you can add them
    What are the common things a developer can do to increase load times and page speeds on his website? 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) <br>
-   If I had a few more hours on this project, I would want to make the app look as nice as possible for a better playing experience. So that would include adding some more CSS style rules to do things like center the content, add different colors to the buttons. I would also like to add more functionality in general and make the game dynamically change each round you play. Like adding some JavaScript along with CSS that could change the shapes of the buttons, color and sounds each round you play to keep it interesting, and also being able to change the pattern of the correct answer. Also, adding animation to congratulate the player if he or she wins the game.
+
+   If I had a few more hours on this project, I would want to make the app look as nice as possible for a better playing experience. So that would include adding some    more CSS style rules to do things like center the content, add different colors to the buttons. I would also like to add more functionality in general and make the    game dynamically change each round you play. Like adding some JavaScript along with CSS that could change the shapes of the buttons, color and sounds each round you    play to keep it interesting, and also being able to change the pattern of the correct answer. Also, adding animation to congratulate the player if he or she wins      the game.
 
 ## Interview Recording URL Link
 
