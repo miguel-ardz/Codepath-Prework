@@ -56,12 +56,12 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
 
-   https://www.rapidtables.com/web/css/css-color.html
-   https://cssreference.io/
-   https://www.w3schools.com/css//css_font_websafe.asp
-   https://www.w3schools.com/csSref/css_selectors.asp
-   https://www.w3schools.com/js/js_events.asp
-   https://www.the-art-of-web.com/javascript/creating-sounds/
+   https://www.rapidtables.com/web/css/css-color.html <br>
+   https://cssreference.io/ <br>
+   https://www.w3schools.com/css//css_font_websafe.asp <br>
+   https://www.w3schools.com/csSref/css_selectors.asp <br>
+   https://www.w3schools.com/js/js_events.asp <br>
+   https://www.the-art-of-web.com/javascript/creating-sounds/ <br>
    https://www.techotopia.com/index.php/JavaScript_Variable_Types
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
