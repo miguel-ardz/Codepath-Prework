@@ -2,8 +2,6 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program.
 
-Submitted by: Miguel Rodriguez
-
 Time spent: 5 hours spent in total
 
 Link to project:
@@ -44,7 +42,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
-![x] (http://g.recordit.co/7DRHpnzWvM.gif)
+http://g.recordit.co/7DRHpnzWvM.gif
 
 ![x] (http://g.recordit.co/SCDXK5N0Ik.gif)
 
