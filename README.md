@@ -34,21 +34,11 @@ The following **optional** features are implemented:
 - [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
 - [ ] User has a limited amount of time to enter their guess on each turn
 
-The following **additional** features are implemented:
-
-- [] List anything else that you can get done to improve the app!
-
 ## Video Walkthrough (GIF)
-
-If you recorded multiple GIFs for all the implemented features, you can add them here:
-
-http://g.recordit.co/7DRHpnzWvM.gif
-
-![x] (http://g.recordit.co/SCDXK5N0Ik.gif)
-
-![x] (http://g.recordit.co/zaGhGpyBhR.gif)
-
-![x] (http://g.recordit.co/zumRbvAOQi.gif)
+![](http://g.recordit.co/7DRHpnzWvM.gif)
+![](http://g.recordit.co/SCDXK5N0Ik.gif)
+![](http://g.recordit.co/zaGhGpyBhR.gif)
+![](http://g.recordit.co/zumRbvAOQi.gif)
 
 ## Reflection Questions
 
@@ -84,9 +74,6 @@ http://g.recordit.co/7DRHpnzWvM.gif
 
    If I had a few more hours on this project, I would want to make the app look as nice as possible for a better playing experience. So that would include adding some    more CSS style rules to do things like center the content, add different colors to the buttons. I would also like to add more functionality in general and make the    game dynamically change each round you play. Like adding some JavaScript along with CSS that could change the shapes of the buttons, color and sounds each round you    play to keep it interesting, and also being able to change the pattern of the correct answer. Also, adding animation to congratulate the player if he or she wins      the game.
 
-## Interview Recording URL Link
-
-[My 5-minute Interview Recording](https://youtu.be/-rctid9t5pg)
 
 ## License
 
